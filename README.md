@@ -1,4 +1,4 @@
-# nkk
+# Customer_Clustering_via_K-means_Retail_Purchase_History
 
 K-means clustering algorithm
 
