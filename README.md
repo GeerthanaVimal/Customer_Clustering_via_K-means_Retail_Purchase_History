@@ -1,8 +1,6 @@
-# PRODIGY_ML_02
+# SVM_for_Cat_Dog_Image_Classification
 
 K-means clustering algorithm
-
-Task-02
 
 Objective: Create a K-means clustering algorithm to group customers of a retail store based on their purchase history.
 
